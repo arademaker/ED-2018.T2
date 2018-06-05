@@ -1,0 +1,41 @@
+# -*- mode:org -*-
+#+TITLE: Algorithms and Data Structures @ EMAp/FGV
+
+- instructor :: Alexandre Rademaker
+
+the course is mostly based on DPV (see references below). Code will be
+implemented in [[https://racket-lang.org][Racket]].
+
+* references
+** books
+- DPV :: S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani,
+         Algorithms. 2006. [[http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf][url]]
+- KT :: J. Kleinberg and E. Tardos, Algorithm Design. 2005. [[https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html][url]]
+
+** Racket
+
+[[https://docs.racket-lang.org/getting-started/index.html][the Racket quickstart]]
+
+following the Racket website advice in the link above, pick the
+references you want to study from how confortable you are learning a
+new programming language, and how much time you have to devote to it.
+
+try to get up to speed with Racket in the first couple of weeks -- you
+will probably be much busier later on.
+
+if you already know a lisp language, check out this [[http://hyperpolyglot.org/lisp][sheet]].
+
+* plan
+- ...
+* grading
+the grade is composed of class assignments (30%), and two major
+evaluations (35% each).
+
+** assignments
+...
+
+** P1
+details to come.
+
+** P2
+details to come.
