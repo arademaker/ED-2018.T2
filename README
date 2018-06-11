@@ -12,6 +12,9 @@ implemented in [[https://racket-lang.org][Racket]].
          Algorithms. 2006. [[http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf][url]]
 - KT :: J. Kleinberg and E. Tardos, Algorithm Design. 2005. [[https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html][url]]
 
+- SICP :: H. Abelson, G. J. Sussman, J. Sussman. Structure and
+          Interpretation of Computer Programs. 1996. [[https://mitpress.mit.edu/sites/default/files/sicp/index.html][url]]
+
 ** Racket
 
 [[https://docs.racket-lang.org/getting-started/index.html][the Racket quickstart]]
@@ -26,7 +29,24 @@ will probably be much busier later on.
 if you already know a lisp language, check out this [[http://hyperpolyglot.org/lisp][sheet]].
 
 * plan
-- ...
+| week | topic                           | contents                                                                                               |
+|------+---------------------------------+--------------------------------------------------------------------------------------------------------|
+|    1 | Introduction and Big O notation | Fibonacci examples, recursions, complexity, arrays versus linked lists, data structures and algorithms |
+|    2 | the Racket programming language | Programming pearls, SICP, stable matching                                                              |
+|    3 | Divide and conquer              |                                                                                                        |
+|    4 | Graphs                          |                                                                                                        |
+|    5 | Graphs                          |                                                                                                        |
+|    6 | A1                              |                                                                                                        |
+|    7 | Greedy algorithms               |                                                                                                        |
+|    8 | Dynamic programming             |                                                                                                        |
+|    9 | Linear programming              |                                                                                                        |
+|   10 | NP and its reductions           |                                                                                                        |
+|   11 | Coping with NP                  |                                                                                                        |
+|   12 | Quantum computing               |                                                                                                        |
+|   13 | A2                              |                                                                                                        |
+
+*note*: the plan is under development, expect more details soon.
+
 * grading
 the grade is composed of class exercises (30%), and two major
 evaluations (35% each).
