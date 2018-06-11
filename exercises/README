@@ -1,0 +1,23 @@
+# -*- mode:org -*-
+#+TITLE: exercise conventions
+- each exercise has its own directory.
+
+- an exercise stub is provided under a Racket file with the same name
+  as the directory. 
+  - you are expected to provide the functions listed in the =provide=
+    form following their specifications.
+  - any further details will be included in the racket file as
+    comments.
+
+- your solution should be a file named after your github handle in the
+  appropriate directory.
+
+- there is also a =tests.rkt= file with preliminary tests you can run
+  to check your implementation. you are encouraged to write your own
+  tests too, as these will not be the only tests run on your solution.
+
+- do not add any other files or deviate from these conventions unless
+  explicitly asked to do so.
+
+if you have any doubts, check the =linked-list= directory for an
+example of how it works.
